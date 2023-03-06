@@ -14,6 +14,7 @@ I like working in teams and collaborating with other engineers. I have vast prof
 - [Medium](https://gatheca-george.medium.com/)
 - [Skype](https://join.skype.com/invite/meZkjFBf0G7O)
 - [Twitter](https://twitter.com/gatheca_george)
+- [Killercoda](https://killercoda.com/gathecageorge)
 
 #### ⚡ Fun fact:
 ...mmmh well there is ....
