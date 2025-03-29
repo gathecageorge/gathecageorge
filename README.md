@@ -2,13 +2,13 @@
 
 ---
 
-I am a highly skilled and motivated professional with a passion for DevOps and a proven track record of success in the field. My diverse background as a Software Engineer and my extensive experience in managing cloud infrastructures and implementing DevOps best practices make me a valuable asset to any team. I am enthusiastic about contributing my skills and knowledge to drive continuous improvement and deliver exceptional results in the field of DevOps.
+I am an experienced Site Reliability Engineer (SRE) and Vice President specializing in blockchain infrastructure, with a strong focus on deploying, automating, and maintaining blockchain nodes across AWS and bare metal environments. Skilled in running validation, self-staking, and providing public RPC endpoints for major blockchain networks, including Ethereum, Cardano, Polkadot, Polygon, Bitcoin, and Babylon.  
 
-I have hands-on experience in managing cloud infrastructures in AWS, GCP, and Azure, utilizing services like RDS, EC2, Auto Scaling, VPC, and more to build robust systems. I excel in implementing Infrastructure as Code (IaC) practices with tools like Terraform and Ansible, ensuring consistent and efficient deployments. My other notable experience is in containerization and orchestration of many service deployments to ensure high availability and proactive monitoring. I have set up robust solutions with Grafana, Prometheus metrics and ELK stack to identify and resolve issues promptly.
+I have hands-on experience in managing cloud infrastructures in AWS, GCP, and Azure, utilizing services like RDS, EC2, Auto Scaling, and VPC to build robust systems. I excel in implementing Infrastructure as Code (IaC) practices with tools like Terraform and Ansible, ensuring consistent and efficient deployments. My expertise also extends to containerization and orchestration, ensuring high availability and proactive monitoring. I have set up robust solutions with Grafana, Prometheus, and the ELK stack to identify and resolve issues promptly.
 
-I like working in teams and collaborating with other engineers to make the entire process as pain free as possible including setting automation CI/CD pipelines and scripting.
+I am passionate about optimizing blockchain performance, enhancing reliability, and reducing operational costs through automation and efficient resource management. I enjoy working in teams and collaborating with engineers to streamline processes, including setting up automation, CI/CD pipelines, and scripting. By leveraging automation and monitoring, I ensure that blockchain and cloud infrastructure operate seamlessly, delivering high-performance and scalable solutions. Dedicated to driving innovation in running decentralized systems, I continuously explore efficient use of blockchain protocols, DeFi, and interoperability solutions.
 
-Beyond my professional contributions, I am an avid writer, sharing my insights on Java, DevOps, and microservices through my Medium profile, accessible at: https://gatheca-george.medium.com/
+Beyond my professional contributions, I am seasonal writer, sharing my insights through my Medium profile, accessible at: https://gatheca-george.medium.com/
 
 For a more interactive learning experience, I encourage you to explore my Killercoda profile: https://killercoda.com/gathecageorge
 
